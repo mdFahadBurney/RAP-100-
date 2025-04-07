@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Page for Travel MFB",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "Travel App MFB"
+  },
+  "sections": [
+    {
+      "id": "SECTION_1",
+      "title": "Section 1 MFB",
+      "visualizations": [
+        {
+          "id": "APP_DESCRIPTOR_ITEM_MFB",
+          "ladiAssignment": {
+            "ladiId": "ZRAP100_MFB_UI5R",
+            "tileId": "UI5R_F0E7A6A482B7716852FCF8076D8C6C7898DECA20_AL"
+          }
+        }
+      ]
+    }
+  ]
+}

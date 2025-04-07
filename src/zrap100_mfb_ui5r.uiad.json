@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Travel App By MFB",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zrap100mfb"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_F0E7A6A482B7716852FCF8076D8C6C7898DECA20_TM",
+    "semanticObject": "ZRAP100_MFB",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_F0E7A6A482B7716852FCF8076D8C6C7898DECA20_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Travel App By MFB"
+      }
+    }
+  ]
+}
